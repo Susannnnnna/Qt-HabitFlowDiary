@@ -15,7 +15,7 @@ Below is an overview of the main components currently available in the app, alon
 | Everyday Wellbeing Module | Monitor overall well-being on a daily basis. | Done |
 | Additional Events Module | Record significant health-related events. | Done |
 | Settings Module | Manage basic user information. | In progress |
-| Login / Logout Screens | Secure access with login and logout functionality. | Not ready |
+| Login / Logout Screens | Secure access with login and logout functionality. | In progress |
 
 ## Content
 - [App examples](./README.md#app-examples)
@@ -27,7 +27,7 @@ Below is an overview of the main components currently available in the app, alon
 - [Possible extensions](./README.md#possible-extensions)
   
 ## App examples
-![Application image - example 1](./Assets/appScreens/Home Page.png)
+Soon...
 
 ## How to run the app?
 ### Environment
