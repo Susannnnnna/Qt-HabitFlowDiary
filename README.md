@@ -27,7 +27,7 @@ Below is an overview of the main components currently available in the app, alon
 - [Possible extensions](./README.md#possible-extensions)
   
 ## App examples
-Soon...
+![App Example 1](./assets/appScreens/HomePage.png)
 
 ## How to run the app?
 ### Environment
