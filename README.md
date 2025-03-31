@@ -37,7 +37,7 @@ Below is an overview of the main components currently available in the app, alon
 
 ![Example5](Assets/appScreens/Meals_EditRecord.png)
 
-[More app examples](,/Assets/appScreens)
+[More app examples](./Assets/appScreens)
 
 ## How to run the app?
 ### Environment
