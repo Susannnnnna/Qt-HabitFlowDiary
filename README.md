@@ -37,6 +37,12 @@ Below is an overview of the main components currently available in the app, alon
 
 ![Example5](Assets/appScreens/Meals_EditRecord.png)
 
+![Example6](Assets/appScreens/Exercises_MainPage.png)
+
+![Example7](Assets/appScreens/Wellbeing_MainPage.png)
+
+![Example8](Assets/appScreens/AdditionalEvents_MainPageFromSideMenu.png)
+
 [More app examples](./Assets/appScreens)
 
 ## How to run the app?
