@@ -29,6 +29,14 @@ Below is an overview of the main components currently available in the app, alon
 ## App examples
 ![Example1](Assets/appScreens/HomePage.png)
 
+![Example2](Assets/appScreens/HomePage_SideMenu.png)
+
+![Example3](Assets/appScreens/Meals_MainPage.png)
+
+![Example4](Assets/appScreens/Meals_AddRecord.png)
+
+![Example5](Assets/appScreens/Meals_EditRecord.png)
+
 [More app examples](,/Assets/appScreens)
 
 ## How to run the app?
@@ -54,3 +62,4 @@ git clone https://github.com/Susannnnnna/Qt-HabitFlowDiary
 ## Possible extensions
 - Synchronization with Firebase
 - Collect data from different users and train AI model
+- OAuth
