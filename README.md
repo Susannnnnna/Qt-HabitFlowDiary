@@ -8,13 +8,13 @@ This project encompasses one key component:
 ### **Health Tracking Application**
 Below is an overview of the main components currently available in the app, along with their development status.
 
-| App Components | Description | Status | 
-| ----------- | ----------- | ----------- |
-| Exercise Module | Track daily physical activities. | Done |
-| Meals Module | Log daily meals and drinks consumed. | Done |
-| Everyday Wellbeing Module | Monitor overall well-being on a daily basis. | Done |
-| Additional Events Module | Record significant health-related events. | Done |
-| Settings Module | Manage basic user information. | In progress |
+| App Components | Description | 
+| ----------- | ----------- |
+| Exercise Module | Track daily physical activities. |
+| Meals Module | Log daily meals and drinks consumed. |
+| Everyday Wellbeing Module | Monitor overall well-being on a daily basis. |
+| Additional Events Module | Record significant health-related events. |
+| Settings Module | Manage basic user information. |
 
 ## Content
 - [App examples](./README.md#app-examples)
