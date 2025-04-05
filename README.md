@@ -1,8 +1,7 @@
 <!--![app-screen]()-->
 # Habit Flow Diary App
 ## Objective
-This project encompasses one key component:
-1. **Health Tracking Application**: A user-friendly app that allows individuals to record essential health-related data.
+**Health Tracking Application**: A user-friendly app that allows individuals to record essential health-related data.
 
 ## Key results
 ### **Health Tracking Application**
@@ -12,7 +11,7 @@ Below is an overview of the main components currently available in the app, alon
 | ----------- | ----------- |
 | Exercise Module | Track daily physical activities. |
 | Meals Module | Log daily meals and drinks consumed. |
-| Everyday Wellbeing Module | Monitor overall well-being on a daily basis. |
+| Everyday Wellbeing Module | Monitor overall well-being daily. |
 | Additional Events Module | Record significant health-related events. |
 | Settings Module | Manage basic user information. |
 
@@ -56,7 +55,7 @@ Below is an overview of the main components currently available in the app, alon
 - SQLite (as a local database)
   
 ### Database and data
-At first you have to configure SQLite database and later you could enter data via the app.
+First, you have to configure the SQLite database, and later, you can enter data via the app.
 
 ### Run the app
 Download files from GitHub
@@ -66,5 +65,6 @@ git clone https://github.com/Susannnnnna/Qt-HabitFlowDiary
 
 ## Possible extensions
 - Synchronization with Firebase
-- Collect data from different users and train AI model
-- OAuth
+- Collect data from different users and train an AI model
+- Authentication
+- Uni tests
