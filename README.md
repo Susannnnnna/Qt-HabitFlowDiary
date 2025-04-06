@@ -58,7 +58,7 @@ Below is an overview of the main components currently available in the app, alon
 First, you have to configure the SQLite database, and later, you can enter data via the app.
 
 ### Run the app
-Download files from GitHub
+Download files from GitHub and open project in Qt Creator
 ```
 git clone https://github.com/Susannnnnna/Qt-HabitFlowDiary
 ```
